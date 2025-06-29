@@ -41,13 +41,12 @@ This SPFx Application Customizer empowers content authors to **copy modern site 
 
 | Solution            | Author(s)                             |
 |---------------------|----------------------------------------|
-| copy-page-extension | Your Name (Your Org) [@ahmad-jad-alhak](https://twitter.com/yourhandle) |
+| copy-page-extension | [Ahmad Jad Alhak](https://github.com/ahmad-jad-alhak) |
 
 ## Version history
 
 | Version | Date           | Comments                   |
 |---------|----------------|----------------------------|
-| 1.1     | June 28, 2025  | Added support for draft news |
 | 1.0     | Initial release| Basic copy page and template |
 
 ## Disclaimer
