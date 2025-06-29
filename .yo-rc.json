@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "23.4.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "react-application-copy-page",
+    "libraryId": "7e4d57ab-668c-4031-8d70-36ea94799f57",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-application-copy-page",
+    "solutionShortDescription": "react-application-copy-page description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
