@@ -8,10 +8,10 @@ This SPFx Application Customizer empowers content authors to **copy modern site 
 - **Promotion as News Post**: Optionally promote the page as a news post.
 - **Local Page Templates**: Save the page as a local template for reuse.
 
-![Copy Page UI](assets/preview-img-01.png)
-![Copy Page UI](assets/preview-img-02.png)
-![Copy Page UI](assets/preview-img-03.png)
-![Copy Page UI](assets/preview-img-04.png)
+![Copy Page UI](assets/preview-01.png)
+![Copy Page UI](assets/preview-02.png)
+![Copy Page UI](assets/preview-03.png)
+![Copy Page UI](assets/preview-04.png)
 
 
 ## Features
