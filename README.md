@@ -13,6 +13,7 @@ This SPFx Application Customizer empowers content authors to **copy modern site 
 ![Copy Page UI](assets/preview-img-03.png)
 ![Copy Page UI](assets/preview-img-04.png)
 
+
 ## Features
 
 - Copy modern site pages across SharePoint sites.
