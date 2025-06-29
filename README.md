@@ -2,13 +2,16 @@
 
 ## Summary
 
-This SharePoint Framework (SPFx) Application Customizer empowers content authors to **copy modern site pages** across sites with full control over:
+This SPFx Application Customizer empowers content authors to **copy modern site pages** across sites with full control over:
 
 - **Publishing State**: Choose between `Published` or `Draft`.
 - **Promotion as News Post**: Optionally promote the page as a news post.
 - **Local Page Templates**: Save the page as a local template for reuse.
 
-![Copy Page UI](./assets/screenshot-copy-page-ui.png)
+![Copy Page UI](assets/preview-img-01.png)
+![Copy Page UI](assets/preview-img-02.png)
+![Copy Page UI](assets/preview-img-03.png)
+![Copy Page UI](assets/preview-img-04.png)
 
 ## Features
 
@@ -70,6 +73,7 @@ To deploy this SPFx Application Customizer, follow these steps:
 
 1. **Build the solution**:
   ```bash
+  gulp build
   gulp bundle --ship
   gulp package-solution --ship
   ```
